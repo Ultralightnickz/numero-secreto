@@ -1,0 +1,74 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    font-size: large;
+    text-align: center;
+    background-image: url("https://caelum-online-public.s3.amazonaws.com/assets-imersaodev/background_mentalista.png");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    margin-top: 300px;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  body > img {
+    margin: 0 10px;
+  }
+  
+  img {
+    max-height: 350px;
+  }
+
+  text {
+    text-align: center;
+  }
+
+  label {
+   /* background-color: white;*/
+    color: white;
+    width: fit-content;
+    display: block;
+    padding: 0px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    font-size: larger;
+}
+
+input {
+  font-size: large;
+}
+
+#mensagem{
+  padding-top: 	20px;
+  color: white;
+  font-size: x-large;
+}
+
